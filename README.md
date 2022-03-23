@@ -35,7 +35,7 @@ Prerequisite: Have Python installed on your machine
     ```
     $ python main.py
     $ python -m unittest tests/test_requests.py
-    ``
+    ```
 
 ## Issues
 
